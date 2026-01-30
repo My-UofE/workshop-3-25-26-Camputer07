@@ -30,11 +30,11 @@ PrintSquares 1 3  ... ok
 PrintSquares 2 7  ... ok
 PASSED: PrintSquares.java
 ----
-javac SumSquares.java ... failed
-SumSquares 3 4  ... failed
-SumSquares 1 3  ... failed
-SumSquares 2 7  ... failed
-FAILED: SumSquares.java
+javac SumSquares.java ... ok
+SumSquares 3 4  ... ok
+SumSquares 1 3  ... ok
+SumSquares 2 7  ... ok
+PASSED: SumSquares.java
 ----
 javac AverageSquares.java ... failed
 AverageSquares 3 4  ... failed
@@ -57,4 +57,4 @@ PrintPattern2 5  ... failed
 FAILED: PrintPattern2.java
 ----
 --- RESULT: ---
-Your score is 4 / 7.5
+Your score is 5 / 7.5
