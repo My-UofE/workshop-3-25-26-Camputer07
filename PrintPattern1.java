@@ -1,6 +1,6 @@
 import java.util.Scanner; // We use the Scanner class from java.util to handle user input
 
-public class PrintPatter1 {
+public class PrintPattern1 {
     public static void main(String[] args) {
 
         // Declare Scanner object
@@ -8,6 +8,7 @@ public class PrintPatter1 {
 
         System.out.print("Enter the size: ");
         int size = in.nextInt(); // Reads in an int from standard input
+        System.out.println();
 
         for (int row = 1; row <= size; row++) {
             for (int column = 1; column <= row; column++) {
