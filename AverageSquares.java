@@ -18,10 +18,10 @@ public class AverageSquares {
 
         int sumOfSquares = 0;
         int i = startNum;
-        while (i <= endNum) {
+        do {
             sumOfSquares += (i * i);
             i++;
-        }
+        } while (i <= endNum);
         
         System.out.println((double) sumOfSquares / (endNum - startNum + 1));
     }
