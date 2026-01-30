@@ -5,23 +5,23 @@ Line 2 i++ means ... ok
 Line 3 ++i means ... ok
 PASSED: DemoIncrement.java
 ----
-javac AgeToGroup.java ... failed
-50 1 ... failed
-100 2 ... failed
-18 0 ... failed
-12 0 ... failed
-65 2 ... failed
-FAILED: AgeToGroup.java
+javac AgeToGroup.java ... ok
+50 1 ... ok
+100 2 ... ok
+18 0 ... ok
+12 0 ... ok
+65 2 ... ok
+PASSED: AgeToGroup.java
 ----
-javac NumbersInSpanish.java ... failed
-0 Sorry I do not know that! ... failed
-1 uno ... failed
-2 dos ... failed
-3 tres ... failed
-4 cuatro ... failed
-5 cinco ... failed
-6 Sorry I do not know that! ... failed
-FAILED: NumbersInSpanish.java
+javac NumbersInSpanish.java ... ok
+0 Sorry I do not know that! ... ok
+1 uno ... ok
+2 dos ... ok
+3 tres ... ok
+4 cuatro ... ok
+5 cinco ... ok
+6 Sorry I do not know that! ... ok
+PASSED: NumbersInSpanish.java
 ----
 here
 javac PrintSquares.java ... ok
@@ -57,4 +57,4 @@ PrintPattern2 5  ... failed
 FAILED: PrintPattern2.java
 ----
 --- RESULT: ---
-Your score is 1 / 7.5
+Your score is 3 / 7.5
