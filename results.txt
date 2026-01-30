@@ -36,17 +36,17 @@ SumSquares 1 3  ... ok
 SumSquares 2 7  ... ok
 PASSED: SumSquares.java
 ----
-javac AverageSquares.java ... failed
-AverageSquares 3 4  ... failed
-AverageSquares 1 3  ... failed
-AverageSquares 2 7  ... failed
-FAILED: AverageSquares.java
+javac AverageSquares.java ... ok
+AverageSquares 3 4  ... ok
+AverageSquares 1 3  ... ok
+AverageSquares 2 7  ... ok
+PASSED: AverageSquares.java
 ----
-javac PrintPattern1.java ... failed
-PrintPattern1 7 ... failed
-PrintPattern1 3 ... failed
-PrintPattern1 1 ... failed
-FAILED: PrintPattern1.java
+javac PrintPattern1.java ... ok
+PrintPattern1 7 ... ok
+PrintPattern1 3 ... ok
+PrintPattern1 1 ... ok
+PASSED: PrintPattern1.java
 ----
 javac PrintPattern2.java ... failed
 PrintPattern2 too small! ... failed
@@ -57,4 +57,4 @@ PrintPattern2 5  ... failed
 FAILED: PrintPattern2.java
 ----
 --- RESULT: ---
-Your score is 5 / 7.5
+Your score is 7 / 7.5
