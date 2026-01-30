@@ -25,10 +25,10 @@ PASSED: NumbersInSpanish.java
 ----
 here
 javac PrintSquares.java ... ok
-PrintSquares 3 4  ... failed
-PrintSquares 1 3  ... failed
-PrintSquares 2 7  ... failed
-FAILED: PrintSquares.java
+PrintSquares 3 4  ... ok
+PrintSquares 1 3  ... ok
+PrintSquares 2 7  ... ok
+PASSED: PrintSquares.java
 ----
 javac SumSquares.java ... failed
 SumSquares 3 4  ... failed
@@ -57,4 +57,4 @@ PrintPattern2 5  ... failed
 FAILED: PrintPattern2.java
 ----
 --- RESULT: ---
-Your score is 3 / 7.5
+Your score is 4 / 7.5
