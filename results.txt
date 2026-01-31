@@ -48,7 +48,7 @@ PrintPattern1 3 ... ok
 PrintPattern1 1 ... ok
 PASSED: PrintPattern1.java
 ----
-javac PrintPattern2.java ... failed
+javac PrintPattern2.java ... ok
 PrintPattern2 too small! ... failed
 PrintPattern2 too big! ... failed
 PrintPattern2 1  ... failed
