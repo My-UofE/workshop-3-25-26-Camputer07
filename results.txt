@@ -49,12 +49,12 @@ PrintPattern1 1 ... ok
 PASSED: PrintPattern1.java
 ----
 javac PrintPattern2.java ... ok
-PrintPattern2 too small! ... failed
-PrintPattern2 too big! ... failed
-PrintPattern2 1  ... failed
-PrintPattern2 3  ... failed
-PrintPattern2 5  ... failed
-FAILED: PrintPattern2.java
+PrintPattern2 too small! ... ok
+PrintPattern2 too big! ... ok
+PrintPattern2 1  ... ok
+PrintPattern2 3  ... ok
+PrintPattern2 5  ... ok
+PASSED: PrintPattern2.java
 ----
 --- RESULT: ---
-Your score is 7 / 7.5
+Your score is 7.5 / 7.5
